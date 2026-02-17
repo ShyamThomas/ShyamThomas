@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 I am a trained ecologist and GIS professional who works at the intersection of spatial data science and biodiversity conservation. As a GIS data manager and analyst for The Nature Conservancy - MN ND SD chapter, I use data and science to inform and evaluate conservation decisions and outcomes. 
 
