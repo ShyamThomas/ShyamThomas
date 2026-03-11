@@ -1,6 +1,6 @@
 ## About Me
 
-I am an ecologist and GIS professional who works at the intersection of spatial data science and biodiversity conservation. As a GIS data manager and analyst for The Nature Conservancy - MN ND SD chapter, I use data and science to inform and strategize conservation actions and outcomes. 
+I am an ecologist and GIS professional who works at the intersection of spatial data science and biodiversity conservation. As a GIS data manager and analyst for The Nature Conservancy - MN ND SD chapter, I use data and science to inform and strategize conservation actions and outcomes. In my free time I love to travel and spend time outdoors, and more recently I have started dabbling in birding & photography.  
 
 - 🔭 I’m currently working on developing Geospatial data management system in Postgis & AGOL
 - I am profecient in: R programming and ArcGIS / AGOL tools
